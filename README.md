@@ -2,7 +2,8 @@
 
 For this project we used two image Datasets from Kaggle
 
-1)For CNN we used Driver Drowsiness Dataset (DDD)
+1)For CNN we used Driver Drowsiness Dataset (DDD):
+
 https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-dataset-ddd
 
 About Dataset:
@@ -21,11 +22,12 @@ The dataset has the following properties :
 
 • File size : 2.32 GB
 
-2)FOR CNN_LSTM HYBRID MODEL WE USED DRIVER DROWSINESS DETECTION SYSTEM DATASET from Kaggle
+2)FOR CNN_LSTM HYBRID MODEL WE USED DRIVER DROWSINESS DETECTION SYSTEM DATASET from Kaggle:
+
 https://www.kaggle.com/datasets/amaldev007/driver-drowsiness-detection-system-dataset
 
-Active Subjects
-4560 files
-Fatigue Subjects
-4560 files
+Active Subjects: 4560 files
+
+Fatigue Subjects:4560 files
+
 Total: 9120 files
