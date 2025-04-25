@@ -11,9 +11,13 @@ The Driver Drowsiness Dataset (DDD) is an extracted and cropped faces of drivers
 
 The dataset has the following properties :
 • RGB images
+
 • 2 classes (Drowsy & Non Drowsy)
+
 • Size of image : 227 x 227
+
 • More than 41,790 images in total
+
 • File size : 2.32 GB
 
 2)FOR CNN_LSTM HYBRID MODEL WE USED DRIVER DROWSINESS DETECTION SYSTEM DATASET from Kaggle
